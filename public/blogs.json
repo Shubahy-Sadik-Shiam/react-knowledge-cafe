@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover_pic": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "title": "Exploring the Depths of the Ocean",
+      "author": "Jane Smith",
+      "author_pic": "https://randomuser.me/api/portraits/women/1.jpg",
+      "posted_date": "2024-10-20",
+      "reading_time": "7",
+      "hashtag": ["#ocean", "#exploration", "#marineLife"]
+    },
+    {
+      "id": "2",
+      "cover_pic": "https://images.unsplash.com/photo-1511813569190-c7a56cf9b7f3",
+      "title": "A Beginner's Guide to Meditation",
+      "author": "John Doe",
+      "author_pic": "https://randomuser.me/api/portraits/men/1.jpg",
+      "posted_date": "2024-10-18",
+      "reading_time": "5",
+      "hashtag": ["#meditation", "#mindfulness", "#wellbeing"]
+    },
+    {
+      "id": "3",
+      "cover_pic": "https://images.unsplash.com/photo-1555949963-aa79dcee981d",
+      "title": "The Future of Artificial Intelligence",
+      "author": "Dr. Emily Brown",
+      "author_pic": "https://randomuser.me/api/portraits/women/2.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": "10",
+      "hashtag": ["#AI", "#technology", "#innovation"]
+    },
+    {
+      "id": "4",
+      "cover_pic": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "title": "Top 10 Travel Destinations for 2025",
+      "author": "Michael Green",
+      "author_pic": "https://randomuser.me/api/portraits/men/2.jpg",
+      "posted_date": "2024-10-22",
+      "reading_time": "8",
+      "hashtag": ["#travel", "#destinations", "#2025"]
+    },
+    {
+      "id": "5",
+      "cover_pic": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "title": "Mastering the Art of Cooking Italian Cuisine",
+      "author": "Chef Maria",
+      "author_pic": "https://randomuser.me/api/portraits/women/3.jpg",
+      "posted_date": "2024-10-19",
+      "reading_time": "12",
+      "hashtag": ["#cooking", "#Italian", "#recipes"]
+    }
+  ]
+  
